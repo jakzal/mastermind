@@ -68,10 +68,10 @@ As a code breaker
 I want to practice breaking codes
 In order to have fun
 
-  Scenario: Starting the game
+  Scenario: Joining the game
     Given a decoding board of 12 attempts
     And the code maker has placed a secret on the board
-    When I start the game
+    When I join the game
     Then the game should be started with an empty board
     And I should have 12 attempts available
 

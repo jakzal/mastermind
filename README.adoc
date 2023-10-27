@@ -123,4 +123,4 @@ In order to have fun
 .Mastermind event model
 image::mastermind-event-model.svg[Mastermind event model]
 
-// image source: https://excalidraw.com/#json=S2zz1LZO99OxFE2YO1B0M,5WbwLhFZnOA7HI2czV-LHA
+// image source: https://excalidraw.com/#json=ntt6ClpN_2Ah8YMWzEPez,31lviiFX4F12GN1GXnFM0w

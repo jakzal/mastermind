@@ -117,3 +117,10 @@ In order to have fun
     Then I should lose the game
     And I should no longer be able to make guesses
 ----
+
+== Event model
+
+.Mastermind event model
+image::mastermind-event-model.svg[Mastermind event model]
+
+// image source: https://excalidraw.com/#json=6eOTF1d1NFVqrXOYXElv9,kQAAbP_ZmhFydVYj9z6g7g
